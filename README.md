@@ -8,7 +8,7 @@ See the article [Morphologically Motivated Input Variations and Data Augmentatio
 
 ## Morphologically motivated input variations
 
-- Morphemes
+- [Morphemes](segmentation/morphemes)
 - Allomorphs
 - Morphological tags
 - Multi-source
